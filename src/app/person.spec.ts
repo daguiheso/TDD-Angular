@@ -1,6 +1,6 @@
 import { Person } from './person'
 
-fdescribe('Test for person', () => {
+describe('Test for person', () => {
 	let person;
 
 	//Arrange
